@@ -16,3 +16,4 @@ spring:
       client:
         composite-indicator:
           enabled: false
+          sss
